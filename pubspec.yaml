@@ -16,6 +16,7 @@ dependencies:
   dbcrypt: ^2.0.0
   dotenv: ^4.0.1
   jaguar_jwt: ^3.0.0
+  mailer: ^5.1.1
 
 dev_dependencies:
   lints: ^1.0.0
