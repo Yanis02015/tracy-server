@@ -3,9 +3,9 @@ import 'package:mailer/smtp_server.dart';
 
 Future<bool> tracyMail(String email, int code, int emailCase) async {
   print('object');
-  String username = 'yaniscrab@gmail.com';
+  String username = 'saeel.electromenager@gmail.com';
   String name = 'Tracy';
-  String password = 'ebnqbpajjdrdgtvc';
+  String password = 'wndordsfuxzjakfx';
 
   final smtpServer = gmail(username, password);
   // Use the SmtpServer class to configure an SMTP server:
